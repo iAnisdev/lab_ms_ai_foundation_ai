@@ -1,2 +1,2 @@
-# ms_ai_foundation_week_1
-Week 1 lab of foundation of AI
+# ms_ai_foundation_ai_lab
+Lab work for foundation of AI
